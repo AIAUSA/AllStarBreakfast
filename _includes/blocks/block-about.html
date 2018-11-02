@@ -21,7 +21,7 @@
                 <div id="horizontal_tab1" class="tab-pane fade active in">
                     <div class="row">
                         <div class="col-sm-5 img-column">
-                            <img src="{{ section.left_image }}" alt="" class="img-responsive" />
+                            <img src="{{site.baseurl}}{{ section.left_image }}" alt="" class="img-responsive" />
                         </div>
                         <div class="col-sm-7 align-left">
                             {{ section.right_text | markdownify }}
@@ -32,7 +32,7 @@
                             {{ section.left_text | markdownify }}
                         </div>
                         <div class="col-sm-5 img-column">
-                            <img src="{{ section.right_image }}" alt="" class="img-responsive" />
+                            <img src="{{site.baseurl}}{{ section.right_image }}" alt="" class="img-responsive" />
                         </div>
                     </div>
                 </div>
