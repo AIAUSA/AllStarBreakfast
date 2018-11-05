@@ -1,13 +1,17 @@
 media-contact: SBB@athletesinaction.org
 media-email: SBB@athletesinaction.org
+event-name: ALL-STAR Breakfast
 year: 2019
-location: Atlanta, GA
-full_date: Saturday, Feburary 2nd, 2019
-short_date: 02.Feb
+location: Charlotte, NC
+full_date: Feburary 16th, 2019
+short_date: 16.Feb
+start_time: 8 AM
 dayofweek: Saturday
 month: Feburary
-day: 2
-address1: 265 Peachtree Center Ave NE, Atlanta, GA 30303 
-address2: Atrium Ballroom
+day: 16
+address1: 2800 Coliseum Centre Dr., Charlotte, NC 28217 
+address2: Renaissance Charlotte Suites Hotel
+email: info@athletesinaction.org
+phone: (937) 352-1000
 sold_out: 0
 sold_out_message: "Please check back next year!"

@@ -5,27 +5,19 @@ permalink: index
 page_sections:
 - template: about
   block: about
-  left_image: "/uploads/sbb2019.png"
+  left_image: "/uploads/all-star-2019.png"
   right_text: |-
-    ###### Super Bowl Breakfast
+    ###### All-Star Breakfast
 
-    The NFL-sanctioned Athletes in Action Super Bowl Breakfast has taken place in the Super Bowl host city every year since 1988, drawing sellout crowds to hear from some of sport’s biggest names. The Bart Starr Award, presented at the breakfast, honors Starr’s lifelong commitment to serving as a positive role model to his family, teammates and community. The winner of the Bart Starr Award is determined by NFL-player balloting at the end of the regular season, making it one of only two individual honors selected by the players themselves.
+    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 13th Annual All- Star Breakfast on February 16th, 2019, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
+
   left_text: |-
-    ###### National Title Sponsor
+    ###### All-Star Moms
 
-    Founded in 2011, the Super Service Challenge is a nationwide movement to transform organizations through service. Driven by the idea people and teams grow stronger when they join together to serve, the Challenge encourages volunteerism, sharing stories of service and awarding funds to nonprofits.
+    As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion disadvantaged single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
+    
+  right_image: "/uploads/all-star-moms-2019.png"
 
-    The impact of the Super Service Challenge grows each year. To date, more than 100,000 people have served nearly 3,000 charities nationwide through the Challenge, and winning nonprofits have received more $30 million in awards. Online, the Challenge has shared more than 20,000 stories of service, counted more than 2.5 million votes, and made over 300 million media impressions.
-
-    Whether you are part of a business, family, team of friends, or ministry, the Super Service Challenge provides a way to facilitate teamwork and engagement that benefits individuals, teams and communities
-
-    Please visit [www.superservicechallenge.com](https://www.superservicechallenge.com/) for more information.
-  right_image: "/uploads/sponsorlogo.png"
-- template: html-text
-  block: text
-  content: <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-    class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/Em61LO9teOI"
-    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: countdown
   block: countdown
 - template: speakers

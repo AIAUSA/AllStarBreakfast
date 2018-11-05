@@ -2,15 +2,15 @@
 <section id="about" class="section align-center">
     <div class="container">
         <span class="icon section-icon icon-sport-09"></span>
-        <h3>Super Bowl Breakfast</h3>
-        <p class="text-alt">Saturday, <span class="highlight">February 2, 2019</span> 8 AM</p>
+        <h3>{{ site.data.event.event-name }}</h3>
+        <p class="text-alt">{{ site.data.event.dayofweek }}, <span class="highlight">{{ site.data.event.full_date }}</span> {{ site.data.event.start_time }}</p>
         <br />
         <br />
 
         <div class="tabs-wrapper tabs-horizontal">
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#horizontal_tab1" data-toggle="tab">
-                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> Superbowl Breakfast</h6>
+                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> {{ site.data.event.event-name }}</h6>
                 </a></li>
                 <li><a href="#horizontal_tab3" data-toggle="tab">
                     <h6 class="heading-alt"><span class="fa fa-trophy"></span> {{ winner[0].year }} Winner</h6>
