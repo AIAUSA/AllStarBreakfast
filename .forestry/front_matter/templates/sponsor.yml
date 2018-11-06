@@ -23,7 +23,3 @@ fields:
 - type: file
   name: logo
   label: Logo
-pages:
-- _sponsors/super-service-challenge.*.md
-- _sponsors/chick-fil-a.*.md
-- _sponsors/shelter-home-mortgage.*.md
