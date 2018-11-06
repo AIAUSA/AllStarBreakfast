@@ -23,6 +23,11 @@ page_sections:
 - template: speakers
   block: speakers
   bios:
+   - template: speaker
+    name: TONY DUNGY
+    title: Super Bowl Champion Coach
+    credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
+    image: "/uploads/speaker2.jpg"
 - template: sponsors
   block: sponsors
 - template: tickets
