@@ -76,8 +76,8 @@ h3 {
 .sbblogo {
   background-image: url("../../uploads/all-star-2019.png");
   background-repeat: no-repeat;
-  height: 255px;
-  width: 196px;
+  height: 183px;
+  width: 275px;
   position: absolute;
   left: 2%;
   top:0px;
@@ -85,7 +85,7 @@ h3 {
   background-size: contain;
 }
 .sblogo {
-  margin-left: 200px;
+  margin-left: 275px;
 }
 
 .press-release {
@@ -114,7 +114,7 @@ h3 {
 }
 
 .aia-bg1 {
-  background-image: url("../../uploads/ASBHeader.jpg");
+  background-image: url("../../uploads/Dell\ and\ Fam.jpg");
 }
 
 .videowrapper {

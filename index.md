@@ -9,7 +9,7 @@ page_sections:
   right_text: |-
     ###### All-Star Breakfast
 
-    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 13th Annual All- Star Breakfast on February 16th, 2019, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
+    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 13th Annual All-Star Breakfast on February 16th, 2019, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
 
   left_text: |-
     ###### All-Star Moms
@@ -27,7 +27,7 @@ page_sections:
     name: TONY DUNGY
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
-    image: "/uploads/speaker2.jpg"
+    image: "uploads/speaker2.jpg"
 - template: sponsors
   block: sponsors
 - template: tickets
