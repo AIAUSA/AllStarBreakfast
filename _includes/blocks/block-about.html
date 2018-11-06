@@ -1,21 +1,21 @@
 {% assign winner = site.inductees | sort: 'year' | reverse %}
 <section id="about" class="section align-center">
     <div class="container">
-        <span class="icon section-icon icon-sport-09"></span>
+        <span class="icon section-icon icon-sport-04"></span>
         <h3>{{ site.data.event.event-name }}</h3>
         <p class="text-alt">{{ site.data.event.dayofweek }}, <span class="highlight">{{ site.data.event.full_date }}</span> {{ site.data.event.start_time }}</p>
         <br />
         <br />
 
         <div class="tabs-wrapper tabs-horizontal">
-            <ul class="nav nav-tabs">
+            <!-- <ul class="nav nav-tabs">
                 <li class="active"><a href="#horizontal_tab1" data-toggle="tab">
                     <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> {{ site.data.event.event-name }}</h6>
                 </a></li>
                 <li><a href="#horizontal_tab3" data-toggle="tab">
                     <h6 class="heading-alt"><span class="fa fa-trophy"></span> {{ winner[0].year }} Winner</h6>
                 </a></li>
-            </ul>
+            </ul> -->
 
             <div class="tab-content">
                 <div id="horizontal_tab1" class="tab-pane fade active in">
@@ -38,7 +38,7 @@
                 </div>
 
                 
-                <div id="horizontal_tab3" class="tab-pane fade">
+                <!-- <div id="horizontal_tab3" class="tab-pane fade">
                     <div class="col-sm-5 img-column">
                         <img src="{{winner[0].feature_image}}" alt="" class="img-responsive">
                     </div>
@@ -46,7 +46,7 @@
                         <h6>{{winner[0].title}}</h6>
                         {{ winner[0].content }}
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

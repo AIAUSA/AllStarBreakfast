@@ -13,5 +13,5 @@ address1: 2800 Coliseum Centre Dr., Charlotte, NC 28217
 address2: Renaissance Charlotte Suites Hotel
 email: info@athletesinaction.org
 phone: (937) 352-1000
-sold_out: 0
-sold_out_message: "Please check back next year!"
+sold_out: 1
+sold_out_message: "Please contact <a href='mailto:dave.lower@athletesinaction.org'>Dave Lower</a> for ticket information."
