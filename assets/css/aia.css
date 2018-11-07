@@ -103,6 +103,10 @@ h3 {
     width:  100%;
   }
 
+  .hero-section {
+    padding-top: 250px !important;
+  }
+
   body > .container {
     padding-top: 25px;
   }
@@ -114,7 +118,9 @@ h3 {
 }
 
 .aia-bg1 {
-  background-image: url("../../uploads/Dell\ and\ Fam.jpg");
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../../uploads/Dell\ and\ Fam.jpg);
+  background-position: top;
+  background-size: cover;
 }
 
 .videowrapper {
