@@ -2336,7 +2336,7 @@ input[type=password].error,
 .call-to-action-section > .overlay:before,
 .thumb-wrapper .overlay:before,
 .header .buy-btn {
-  background-color: #fe4918;
+  background-color: #518CA9;
 }
 .base-clr-txt,
 .highlight,
@@ -2407,7 +2407,7 @@ input[type="submit"] + .loading,
 .header.header-color .navigation-header .buy-btn.pressed,
 input.header.header-color .navigation-header .buy-btn,
 .header .buy-btn {
-  color: #fe4918;
+  color: #518CA9;
 }
 ::selection {
   color: #ffffff;
