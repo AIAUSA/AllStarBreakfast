@@ -6938,7 +6938,7 @@ button[type="submit"] .loading {
   background-image: url("../img/backgrounds/bg4.jpg");
 }
 .bg5 {
-  background-image: url("../img/backgrounds/sbb2.jpg");  /* ----- counter image -----*/
+  background-image: url("../../uploads/table.jpeg");  /* ----- counter image -----*/
 }
 .gradient-overlay:before {
   background: #9001a5;
