@@ -29,6 +29,26 @@ page_sections:
     an A-level occasion to uniquely applaud their efforts and connect them with pertinent
     resources within their community.**  \n\nWith funding in place, the All-Star Moms
     will have an opportunity to participate in the following:"
+- template: text-w-right-image
+  block: text-with-right-image
+  text: "<p><strong>The All-Star Breakfast Experience</strong></p><p><em>A special
+    breakfast with dozens of retired NBA Players, an impactful program, Red Carpet
+    photos, VIP Reception, Gifts, Scholarships, Transportation, Child care, and more!
+    </em></p>"
+  image: "/uploads/Renaissance Charlotte Suites Hotel.jpeg"
+- template: text
+  block: text
+  content: "**Resource Row** \n\n_A one-stop-shop connecting single moms with local
+    resources and organizations that can provide ongoing support for their families._\n\n \n\n**Night
+    with the Rising Stars**\n\n_An opportunity watch the NBA’s first and second year
+    players compete in the Rising Stars Challenge on Friday night with up to two of
+    their children._ "
+- template: text-w-right-image
+  block: text-with-right-image
+  text: <p><strong>Follow up Weekend Retreat</strong></p><p class="MsoNormal"><em>Includes
+    Hotel Stay, Meals, Workshops, All-Star Moms Resource Kit and Curriculum, for 50
+    mothers</em></p>
+  image: "/uploads/Charlotte 3.jpeg"
 - template: text
   block: text
   content: |-
