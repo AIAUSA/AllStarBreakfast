@@ -65,17 +65,14 @@ page_sections:
     _The goal of the Community Forum is to bring attention to the challenges single mothers face and inspire community leaders to develop more effective ways to work together to create support systems that assist these moms with upward mobility, while upholding dignity and respect._
 
      _Our program will include a special keynote presentation, a panel discussion, and an opportunity to dialogue about how the city of Charlotte can come together and create innovative ways to have a greater impact._
-- template: centered-text
-  block: centered-text
-  content: "<h4>The Heart Behind All-Star Moms</h4>"
 - template: text-w-right-image
   block: text-with-right-image
-  text: "<p><em>Kim Anthony is the visionary of the All-Star Moms Champion Outreach.
-    A national speaker and author of the book entitled; Unfavorable Odds, Kim was
-    inspired by watching her own mother overcome the difficulties of being the sole
-    provider for her family. As a result, she developed a passion to encourage single
-    moms in similar situations to overcome the obstacles they face and pursue a life
-    of purpose. You can read more about Kim at www.KimAnthony.net.</em>    </p>"
+  text: "<h5>The Heart Behind All-Star Moms</h5><p><em>Kim Anthony is the visionary
+    of the All-Star Moms Champion Outreach. A national speaker and author of the book
+    entitled; Unfavorable Odds, Kim was inspired by watching her own mother overcome
+    the difficulties of being the sole provider for her family. As a result, she developed
+    a passion to encourage single moms in similar situations to overcome the obstacles
+    they face and pursue a life of purpose. You can read more about Kim at www.KimAnthony.net.</em></p>"
   image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
 - template: centered-text
   block: centered-text
