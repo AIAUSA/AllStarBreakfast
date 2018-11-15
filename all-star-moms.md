@@ -21,15 +21,22 @@ page_sections:
     National Basketball Retired Players Association (NBRPA).** \n\n* _1 in 4 children
     under the age of 18 — a total of about 17.2 million — are being raised without
     a father_\n* The pressures of a single income, high costs of childcare, finding
-    the time and energy to raise their children and feed their families is a
-    constant battle where the risk of poverty for these families is the tragic
-    reality\n* Despite the need, many of these mothers will avoid asking for help
-    in order to maintain a sense of dignity and independence. \n\n**The key goal of
-    the All-Star Moms Champion Outreach is to recognize the undertakings of courageous
-    single-mothers and create an A-level occasion to uniquely applaud their efforts
-    and connect them with pertinent resources within their community.**  \n\nWith
-    funding in place, the All-Star Moms will have an opportunity to participate in
-    the following:"
+    the time and energy to raise their children and feed their families is a constant
+    battle where the risk of poverty for these families is the tragic reality\n* Despite
+    the need, many of these mothers will avoid asking for help in order to maintain
+    a sense of dignity and independence. \n\n**The key goal of the All-Star Moms Champion
+    Outreach is to recognize the undertakings of courageous single-mothers and create
+    an A-level occasion to uniquely applaud their efforts and connect them with pertinent
+    resources within their community.**  \n\nWith funding in place, the All-Star Moms
+    will have an opportunity to participate in the following:"
+- template: text
+  block: text
+  content: |-
+    Leaders in the Charlotte Community will be invited to participate in the Community Forum.
+
+    _The goal of the Community Forum is to bring attention to the challenges single mothers face and inspire community leaders to develop more effective ways to work together to create support systems that assist these moms with upward mobility, while upholding dignity and respect._
+
+     _Our program will include a special keynote presentation, a panel discussion, and an opportunity to dialogue about how the city of Charlotte can come together and create innovative ways to have a greater impact._
 - template: centered-text
   block: centered-text
   content: "<h4>The Heart Behind All-Star Moms</h4>"
