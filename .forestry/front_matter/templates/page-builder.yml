@@ -14,5 +14,14 @@ fields:
 - type: text
   label: URL
   name: slug
+- type: blocks
+  label: Page Sections
+  name: page_sections
+  template_types:
+  - winners
+  - html-text
+  - text-w-right-image
+  - centered-text
+  - text
 pages:
 - all-star-moms.md
