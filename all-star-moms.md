@@ -43,7 +43,7 @@ page_sections:
     breakfast with dozens of retired NBA Players, an impactful program, Red Carpet
     photos, VIP Reception, Gifts, Scholarships, Transportation, Child care, and more!
     </em></p>"
-  image: "/uploads/Renaissance Charlotte Suites Hotel.jpeg"
+  image: ''
 - template: text
   block: text
   content: "**Resource Row** \n\n_A one-stop-shop connecting single moms with local
@@ -56,7 +56,7 @@ page_sections:
   text: <p><strong>Follow up Weekend Retreat</strong></p><p class="MsoNormal"><em>Includes
     Hotel Stay, Meals, Workshops, All-Star Moms Resource Kit and Curriculum, for 50
     mothers</em></p>
-  image: "/uploads/Charlotte 3.jpeg"
+  image: ''
 - template: text
   block: text
   content: |-
