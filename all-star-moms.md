@@ -14,6 +14,11 @@ page_sections:
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
     mothers, their children, and their communities, one NBA All-Star City at a time!** "
+- template: html-text
+  block: text
+  content: |-
+    <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
+        class="videowrapper"><img src="/uploads/RED (13).jpg" /></div></div></div>
 - template: text
   block: text
   content: "**The All-Star Moms Champion Outreach takes place during NBA All-Star
