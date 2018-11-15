@@ -4,6 +4,9 @@ layout: blocks
 date: 2018-11-15 13:12:20 +0000
 slug: all-star-moms
 page_sections:
+- template: centered-text
+  block: centered-text
+  content: "## All-Star Mom's Event"
 - template: html-text
   block: text
   content: |-
