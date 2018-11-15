@@ -143,3 +143,6 @@ h3 {
 .bg-cover a {
   color: white;
 }
+
+.text ul { list-style: disc;}
+.text ul li { margin-left: 30px; }
