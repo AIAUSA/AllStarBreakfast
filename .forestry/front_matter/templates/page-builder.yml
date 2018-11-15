@@ -22,5 +22,8 @@ fields:
   - press-releases
   - media-inquiries
   - text-w-right-image
+  - html-text
+  - text
+  - centered-text
 pages:
 - all-star-moms.md
