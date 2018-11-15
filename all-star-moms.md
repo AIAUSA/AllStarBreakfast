@@ -30,5 +30,23 @@ page_sections:
     and connect them with pertinent resources within their community.**  \n\nWith
     funding in place, the All-Star Moms will have an opportunity to participate in
     the following:"
+- template: centered-text
+  block: centered-text
+  content: "**The Heart Behind All-Star Moms**"
+- template: text-w-right-image
+  block: text-with-right-image
+  text: "<p><em>Kim Anthony is the visionary of the All-Star Moms Champion Outreach.
+    A national speaker and author of the book entitled; Unfavorable Odds, Kim was
+    inspired by watching her own mother overcome the difficulties of being the sole
+    provider for her family. As a result, she developed a passion to encourage single
+    moms in similar situations to overcome the obstacles they face and pursue a life
+    of purpose. You can read more about Kim at www.KimAnthony.net.</em>    </p>"
+  image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
+- template: centered-text
+  block: centered-text
+  content: |-
+    **Sponsorship Opportunities Available**
+
+    Contact Kim at:  [Kim.Anthony@AthletesinAction.org](mailto:Kim.Anthony@AthletesinAction.org)
 
 ---
