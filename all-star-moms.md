@@ -21,7 +21,7 @@ page_sections:
   block: text
   content: |-
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-        class="videowrapper"><img src="/uploads/RED (13).jpg" /></div></div></div>
+        class="videowrapper"><img src="/uploads/RED (13).jpeg" /></div></div></div>
 - template: text
   block: text
   content: "**The All-Star Moms Champion Outreach takes place during NBA All-Star
