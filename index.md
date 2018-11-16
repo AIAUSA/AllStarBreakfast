@@ -40,6 +40,12 @@ page_sections:
     title: '1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals '
     credentials: All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
     image: "/uploads/paul-W-cropped.jpg"
+  - template: speaker
+    name: Kim Anthony
+    image: "/uploads/kim-anthony.jpg"
+    title: Author & Speaker
+    credentials: 4-Time NCAA National Champion Gymnast, UCLA Hall of Fame in 2000,
+      Virginia Sports Hall of Fame in 2017
 - template: sponsors
   block: sponsors
 - template: tickets
