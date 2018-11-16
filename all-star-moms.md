@@ -6,7 +6,7 @@ slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "## All-Star Mom's Event"
+  content: "### All-Star Mom's Event"
 - template: html-text
   block: text
   content: |-
@@ -15,8 +15,7 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: centered-text
   block: centered-text
-  content: "**We have an opportunity to help change the statistics and impact single
-    mothers, their children, and their communities, one NBA All-Star City at a time!** "
+  content: "**We have an opportunity to help change the statistics and impact single mothers, their children, and their communities, one NBA All-Star City at a time!** "
 - template: html-text
   block: text
   content: |-
@@ -35,28 +34,19 @@ page_sections:
     a sense of dignity and independence. \n\n**The key goal of the All-Star Moms Champion
     Outreach is to recognize the undertakings of courageous single-mothers and create
     an A-level occasion to uniquely applaud their efforts and connect them with pertinent
-    resources within their community.**  \n\nWith funding in place, the All-Star Moms
-    will have an opportunity to participate in the following:"
-- template: text-w-right-image
-  block: text-with-right-image
-  text: "<p><strong>The All-Star Breakfast Experience</strong></p><p><em>A special
-    breakfast with dozens of retired NBA Players, an impactful program, Red Carpet
-    photos, VIP Reception, Gifts, Scholarships, Transportation, Child care, and more!
-    </em></p>"
-  image: ''
+    resources within their community.** "
+- template: centered-text
+  block: centered-text
+  content: "**With funding in place,\n the All-Star Moms will have an opportunity to participate in the following:** "
 - template: text
   block: text
-  content: "**Resource Row** \n\n_A one-stop-shop connecting single moms with local
-    resources and organizations that can provide ongoing support for their families._\n\n \n\n**Night
-    with the Rising Stars**\n\n_An opportunity watch the NBA’s first and second year
-    players compete in the Rising Stars Challenge on Friday night with up to two of
-    their children._ "
-- template: text-w-right-image
-  block: text-with-right-image
-  text: <p><strong>Follow up Weekend Retreat</strong></p><p class="MsoNormal"><em>Includes
-    Hotel Stay, Meals, Workshops, All-Star Moms Resource Kit and Curriculum, for 50
-    mothers</em></p>
-  image: ''
+  content: "**The All-Star Breakfast Experience**\n\n_A special
+    breakfast with dozens of retired NBA Players, an impactful program, Red Carpet
+    photos, VIP Reception, Gifts, Scholarships, Transportation, Child care, and more!_\n\n**Resource Row** \n\n_A one-stop-shop connecting single moms with local
+    resources and organizations that can provide ongoing support for their families._\n\n **Night with the Rising Stars**\n\n_An opportunity watch the NBA’s first and second year players compete in the Rising Stars Challenge on Friday night with up to two of their children._ \n\n**Follow up Weekend Retreat**\n\n_Includes Hotel Stay, Meals, Workshops, All-Star Moms Resource Kit and Curriculum, for 50 mothers_"
+- template: centered-text
+  block: centered-text
+  content: "**Community Forum** "
 - template: text
   block: text
   content: |-
@@ -74,6 +64,7 @@ page_sections:
     a passion to encourage single moms in similar situations to overcome the obstacles
     they face and pursue a life of purpose. You can read more about Kim at www.KimAnthony.net.</em></p>"
   image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
+  photo_size: 2
 - template: centered-text
   block: centered-text
   content: |-
