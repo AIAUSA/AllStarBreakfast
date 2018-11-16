@@ -57,7 +57,7 @@ page_sections:
      _Our program will include a special keynote presentation, a panel discussion, and an opportunity to dialogue about how the city of Charlotte can come together and create innovative ways to have a greater impact._
 - template: text-w-right-image
   block: text-with-right-image
-  text: "<h5>The Heart Behind All-Star Moms</h5><p><em>Kim Anthony is the visionary
+  text: "<h6>The Heart Behind All-Star Moms</h6><p><em>Kim Anthony is the visionary
     of the All-Star Moms Champion Outreach. A national speaker and author of the book
     entitled; Unfavorable Odds, Kim was inspired by watching her own mother overcome
     the difficulties of being the sole provider for her family. As a result, she developed
