@@ -6,7 +6,7 @@ slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "### All-Star Mom's Event"
+  content: "<div class='row align-center' style='display: flex; justify-content: center;'><img src='/uploads/all-star-moms-2019.png' /></div>"
 - template: html-text
   block: text
   content: |-
@@ -35,26 +35,6 @@ page_sections:
     Outreach is to recognize the undertakings of courageous single-mothers and create
     an A-level occasion to uniquely applaud their efforts and connect them with pertinent
     resources within their community.** "
-- template: centered-text
-  block: centered-text
-  content: "**With funding in place,\n the All-Star Moms will have an opportunity to participate in the following:** "
-- template: text
-  block: text
-  content: "**The All-Star Breakfast Experience**\n\n_A special
-    breakfast with dozens of retired NBA Players, an impactful program, Red Carpet
-    photos, VIP Reception, Gifts, Scholarships, Transportation, Child care, and more!_\n\n**Resource Row** \n\n_A one-stop-shop connecting single moms with local
-    resources and organizations that can provide ongoing support for their families._\n\n **Night with the Rising Stars**\n\n_An opportunity watch the NBA’s first and second year players compete in the Rising Stars Challenge on Friday night with up to two of their children._ \n\n**Follow up Weekend Retreat**\n\n_Includes Hotel Stay, Meals, Workshops, All-Star Moms Resource Kit and Curriculum, for 50 mothers_"
-- template: centered-text
-  block: centered-text
-  content: "**Community Forum** "
-- template: text
-  block: text
-  content: |-
-    Leaders in the Charlotte Community will be invited to participate in the Community Forum.
-
-    _The goal of the Community Forum is to bring attention to the challenges single mothers face and inspire community leaders to develop more effective ways to work together to create support systems that assist these moms with upward mobility, while upholding dignity and respect._
-
-     _Our program will include a special keynote presentation, a panel discussion, and an opportunity to dialogue about how the city of Charlotte can come together and create innovative ways to have a greater impact._
 - template: text-w-right-image
   block: text-with-right-image
   text: "<h6>The Heart Behind All-Star Moms</h6><p><em>Kim Anthony is the visionary
@@ -68,8 +48,11 @@ page_sections:
 - template: centered-text
   block: centered-text
   content: |-
+    **[Make a Donation to help fund All-Star Mom's](https://give.cru.org/0966957)**
+
+
     **Sponsorship Opportunities Available**
 
-    Contact Kim at:  [Kim.Anthony@AthletesinAction.org](mailto:Kim.Anthony@AthletesinAction.org)
+    Contact Jennifer at:  [Jennifer.Troutman@AthletesinAction.org](Jennifer.Troutman@AthletesinAction.org)
 
 ---

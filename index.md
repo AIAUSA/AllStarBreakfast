@@ -13,10 +13,24 @@ page_sections:
   left_text: |-
     ###### All-Star Moms
 
-    As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion disadvantaged single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
+    As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion courageous single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
   right_image: "/uploads/all-star-moms-2019.png"
 - template: countdown
   block: countdown
+- template: speakers
+  block: speakers
+  header: 1
+  bios:
+  - template: speaker
+    name: Paul Westphal
+    title: 'Jerry Colangelo Award Recipent'
+    credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals, All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
+    image: "/uploads/paul-W-cropped.jpg"
+  - template: speaker
+    name: David Thompson
+    image: "/uploads/david-thompson.jpg"
+    title: Bobby Jones Award Reciepent
+    credentials: College Player of the Year, 4 x NBA All Star, Basketball Hall of Fame
 - template: speakers
   block: speakers
   bios:
@@ -25,21 +39,6 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: uploads/speaker2.jpg
-  - template: speaker
-    image: "/uploads/jerry.jpg"
-    name: Jerry Colangelo
-    title: Basketball Hall of Fame, Managing Director of USA Men's BB
-    credentials: 4-time NBA Executive of the Year
-  - template: speaker
-    name: Bobby Jones
-    credentials: 5 x NBA All Star 10 X All-Defensive Team
-    title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
-    image: "/uploads/bobby.jpg"
-  - template: speaker
-    name: Paul Westphal
-    title: '1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals '
-    credentials: All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
-    image: "/uploads/paul-W-cropped.jpg"
   - template: speaker
     name: Kim Anthony
     image: "/uploads/kim-anthony.jpg"
