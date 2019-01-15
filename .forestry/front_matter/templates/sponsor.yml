@@ -15,10 +15,9 @@ fields:
     source:
       type: simple
     options:
-    - National Title
-    - Presenting
-    - Corporate
-    - Executive
+    - Title Sponsor
+    - Sponsor
+    - In-kind Sponsors
   label: Type
 - type: file
   name: logo
