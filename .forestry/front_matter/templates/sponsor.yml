@@ -24,3 +24,4 @@ fields:
   label: Logo
 pages:
 - _sponsors/dungy-foundation.*.md
+- _sponsors/the-greater-enrichment-program.*.md
