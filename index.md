@@ -28,7 +28,7 @@ page_sections:
     image: "/uploads/paul-W-cropped.jpg"
   - template: speaker
     name: David Thompson
-    image: "/uploads/david-thompson.jpg"
+    image: "/uploads/thompson.jpg"
     title: Bobby Jones Award Reciepent
     credentials: College Player of the Year, 4 x NBA All Star, Basketball Hall of Fame
 - template: speakers
