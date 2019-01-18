@@ -24,6 +24,7 @@ fields:
   label: Logo
 pages:
 - _sponsors/harvest-center.*.md
+- _sponsors/auntie-anne-s.*.md
 - _sponsors/the-movement-school.*.md
 - _sponsors/alan-douglas-events.*.md
 - _sponsors/wheeler-interiors.*.md
