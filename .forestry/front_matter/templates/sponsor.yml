@@ -24,6 +24,7 @@ fields:
   label: Logo
 pages:
 - _sponsors/harvest-center.*.md
+- _sponsors/the-movement-school.*.md
 - _sponsors/wheeler-interiors.*.md
 - _sponsors/coke.*.md
 - _sponsors/lending-tree.*.md
