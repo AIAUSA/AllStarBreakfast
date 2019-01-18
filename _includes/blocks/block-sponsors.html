@@ -17,16 +17,16 @@
 		<h4>Sponsors</h4>
 		<div class="sponsors">
 			{% for s in psponsors %}
-			<div class="sponsor medium"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
 			{% endfor %}
 		</div>
 		{% endif %}
-		{% assign csponsors = site.sponsors | where: "type", "In-kind Sponsor" | sort: "date" | reverse %}
+		{% assign csponsors = site.sponsors | where: "type", "In-kind Sponsors" | sort: "date" | reverse %}
 		{% if csponsors.size > 0 %}
 		<h4>In-kind Sponsors</h4>
 		<div class="sponsors">
 			{% for s in csponsors %}
-			<div class="sponsor medium"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
 			{% endfor %}
 		</div>
 		{% endif %}
