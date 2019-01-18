@@ -6,16 +6,20 @@ slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center' style='display: flex; justify-content: center;'><img src='/uploads/all-star-moms-2019.png' /></div>"
+  content: "<div class='row align-center' style='display: flex; justify-content: center;'><img
+    src='/uploads/all-star-moms-2019.png' /></div>"
 - template: html-text
   block: text
   content: |-
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
         class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/n2UOhJ-KIJ0"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
+- template: sponsors
+  block: sponsors
 - template: centered-text
   block: centered-text
-  content: "**We have an opportunity to help change the statistics and impact single mothers, their children, and their communities, one NBA All-Star City at a time!** "
+  content: "**We have an opportunity to help change the statistics and impact single
+    mothers, their children, and their communities, one NBA All-Star City at a time!** "
 - template: html-text
   block: text
   content: |-
