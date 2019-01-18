@@ -23,6 +23,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/wheeler-interiors.*.md
 - _sponsors/lending-tree.*.md
 - _sponsors/dungy-foundation.*.md
 - _sponsors/the-greater-enrichment-program.*.md
