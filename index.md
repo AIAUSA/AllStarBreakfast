@@ -35,6 +35,7 @@ page_sections:
       Fame
 - template: speakers
   block: speakers
+  header: 0
   bios:
   - template: speaker
     image: "/uploads/jerry.jpg"

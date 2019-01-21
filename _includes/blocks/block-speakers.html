@@ -22,7 +22,10 @@
                         <p class="about">{{ speak.credentials }} </p>
                     </div>
                 </div>
-                {% if forloop.index == 3 %}
+                {% if section.header == 1 and forloop.index == 3 %}
+            </div>
+            <div class="row text-center">
+                {% elsif section.header == 0 and forloop.index == 4 %}
             </div>
             <div class="row text-center">
                 {% endif%}
