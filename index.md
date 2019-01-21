@@ -37,6 +37,16 @@ page_sections:
   block: speakers
   bios:
   - template: speaker
+    image: "/uploads/jerry.jpg"
+    name: Jerry Colangelo
+    title: Basketball Hall of Fame, Managing Director of USA Men's BB
+    credentials: 4-time NBA Executive of the Year
+  - template: speaker
+    name: Bobby Jones
+    credentials: 5 x NBA All Star 10 X All-Defensive Team
+    title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
+    image: "/uploads/bobby.jpg"
+  - template: speaker
     name: TONY DUNGY
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
