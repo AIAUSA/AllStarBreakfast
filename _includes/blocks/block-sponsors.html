@@ -14,7 +14,7 @@
 		{% endif %}
 		{% assign psponsors = site.sponsors | where: "type", "Sponsor" | sort: "date" | reverse %}
 		{% if psponsors.size > 0 %}
-		<h4>Sponsors</h4>
+		<h4>{{ section.title }} Sponsors</h4>
 		<div class="sponsors">
 			{% for s in psponsors %}
 			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>

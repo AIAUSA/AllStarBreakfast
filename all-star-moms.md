@@ -6,8 +6,8 @@ slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center' style='display: flex; justify-content: center;'><img
-    src='/uploads/all-star-moms-2019.png' /></div>"
+  content: "<div class='row align-center' style='display: flex; justify-content: center;'><div class='col-md-6'>&nbsp;<br /><img
+    src='/uploads/all-star-moms-2019.png' /></div><div class='col-md-6'><h4>Sponsored By</h4><img src='/uploads/Step-and-Repeat_Blue.jpg' class='col-md-8' /></div></div>"
 - template: html-text
   block: text
   content: |-
@@ -16,6 +16,7 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: sponsors
   block: sponsors
+  title: Additional
 - template: centered-text
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
