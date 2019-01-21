@@ -10,21 +10,25 @@
         {% if section.bios.size > 0 %}
         <div class="row text-center" style="display:flex; justify-content:center;">
             {% for speak in section.bios %}
+            {% if section.header == 1 %}
             <div class="col-sm-4" style="">
-                <div class="speaker">
-                    <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
-                    <h3 class="name">{{speak.name}}</h3>
-                    <p class="text-alt"><small>{{speak.title}}</small></p>
-                    <p class="about">{{ speak.credentials }} </p>
+                {% else %}
+                <div class="col-sm-3" style="">
+                    {% endif %}
+                    <div class="speaker">
+                        <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
+                        <h3 class="name">{{speak.name}}</h3>
+                        <p class="text-alt"><small>{{speak.title}}</small></p>
+                        <p class="about">{{ speak.credentials }} </p>
+                    </div>
                 </div>
+                {% if forloop.index == 3 %}
             </div>
-            {% if forloop.index == 3 %}
-        </div>
-        <div class="row text-center">
-            {% endif%}
-            {% endfor %}
-        </div>
-        {% else %}
-        <p>Speakers to-be-announced</p>
-        {% endif %}
+            <div class="row text-center">
+                {% endif%}
+                {% endfor %}
+            </div>
+            {% else %}
+            <p>Speakers to-be-announced</p>
+            {% endif %}
 </section>
