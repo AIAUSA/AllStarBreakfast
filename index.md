@@ -23,14 +23,16 @@ page_sections:
   bios:
   - template: speaker
     name: Paul Westphal
-    title: 'Jerry Colangelo Award Recipent'
-    credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals, All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
+    title: Jerry Colangelo Award Recipent
+    credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals,
+      All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
     image: "/uploads/paul-W-cropped.jpg"
   - template: speaker
     name: David Thompson
     image: "/uploads/thompson.jpg"
     title: Bobby Jones Award Reciepent
-    credentials: College Player of the Year, 4 x NBA All Star, Basketball Hall of Fame
+    credentials: College Player of the Year, 4 x NBA All Star, Basketball Hall of
+      Fame
 - template: speakers
   block: speakers
   bios:
@@ -38,6 +40,7 @@ page_sections:
     name: TONY DUNGY
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
+      <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
   - template: speaker
     name: Kim Anthony
