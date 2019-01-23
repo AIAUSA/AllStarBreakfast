@@ -16,6 +16,8 @@ fields:
       type: simple
     options:
     - Title Sponsor
+    - Breakfast Title Sponsor
+    - Mom Title Sponsor
     - Sponsor
     - In-kind Sponsors
   label: Type
