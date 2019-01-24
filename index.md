@@ -31,8 +31,7 @@ page_sections:
     name: David Thompson
     image: "/uploads/thompson.jpg"
     title: Bobby Jones Award Reciepent
-    credentials: College Player of the Year, 4 x NBA All Star, Basketball Hall of
-      Fame
+    credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball Hall of Fame
 - template: speakers
   block: speakers
   header: 0
@@ -53,6 +52,15 @@ page_sections:
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
       <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
+- template: speakers
+  block: speakers
+  header: 0
+  bios:
+  - template: speaker
+    name: Allan Houston
+    image: "/uploads/houston.jpg"
+    title: Asst. General Manager, Knicks
+    credentials: College All-American, 2 x NBA All-Star, Olympic Gold Medalist
   - template: speaker
     name: Kim Anthony
     image: "/uploads/kim-anthony.jpg"
