@@ -10,7 +10,7 @@ fields:
   hidden: true
   default: speakers
 - type: boolean
-  name: whitedcap
+  name: header
   label: Headers
   description: Shows header for this section
 - type: blocks

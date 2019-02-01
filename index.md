@@ -63,7 +63,7 @@ page_sections:
     credentials: College All-American, 2 x NBA All-Star, Olympic Gold Medalist
   - template: speaker
     name: Kim Anthony
-    image: "/uploads/kim-anthony.jpg"
+    image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
     title: Author & Speaker
     credentials: 4-Time NCAA National Champion Gymnast, UCLA Hall of Fame in 2000,
       Virginia Sports Hall of Fame in 2017
