@@ -25,7 +25,7 @@ page_sections:
   block: text
   content: |-
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-        class="videowrapper"><img src="/uploads/RED (13).jpeg" /></div></div></div>
+        class="videowrapper"><img src="/uploads/All-Star Moms 2019 Group.jpeg" /></div></div></div>
 - template: text
   block: text
   content: "**The All-Star Moms Champion Outreach takes place during NBA All-Star
@@ -58,6 +58,6 @@ page_sections:
 
     **Sponsorship Opportunities Available**
 
-    Contact Jennifer at:  [Jennifer.Troutman@AthletesinAction.org](Jennifer.Troutman@AthletesinAction.org)
+    Contact us at:  [AllStarMoms@athletesinaction.org](AllStarMoms@athletesinaction.org)
 
 ---
