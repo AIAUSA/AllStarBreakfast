@@ -1,8 +1,11 @@
 language: ruby
-install: gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install jekyll -v 2.4.0 && gem install s3_website && bundle install
+install: gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install
+  jekyll -v 2.4.0 && gem install s3_website && bundle install
 script: bundle exec jekyll build
-after_success: 
-  - bash postbuild.sh
-  - s3_website push
+after_success:
+- bash postbuild.sh
+- s3_website push
 notifications:
-    slack: aiacc:DQJx1jxSipYMHzXBVtf4kMGH
+  slack:
+    rooms:
+      secure: T5oYXicTImzIooFbTrNTVOX12zxifkD6RmfNVavllIkHl2Jwu2PW/RCVRwdF5t0Y3VAR0ZKA7I6AiG6/aYvENRqmBviSiw2qGUQcH+vOkMw4+t+YRrBT+JJPjRpwpbrF6mQTRyx6wX9QjagXYo3kIUbFm1NXFUe45Um0vD9bUdeH1aO2/1dqrmEci0rFHgcTIuXFSkpmhIroMA5ME1mFFkIWBBrT/gxp5sEg6G74z3PjbQ61ZWFgFUe43imF9lJl9PSWGU2f4oQ06LLE1+woo6vsFktuZ69fmR79E1Z7DuRV5pnGiOLiEhCdlKLKitA4z8F8yRwD0IvEWULaZ6MEpE/Uhg5wzBgmK8Y741xN0yAXceqVKrFPYifu880hqsJ+DSrXPf7aaiGjfwovGYAHoTrMn5zDcnQpYHoFmdjQZSOEl3h/iuDustJCeu0ODmc0JJi7U8Nnw0JWtbL2DO0QOu3n4HL8YREWzKxH3m0wCKN90A/ejJSiwajGxCC7MjV0RABpmvcuPtUeTTR7C3aji7g+wud5idxgeYS3WCHvDEEGoROoC4ii+tXpX4dYR11XDEEuTVIYXVCJI6vDU7T/Lp75k0DTjum2LemzDiQ5T8VQiCQBTO+9LdnNvxYPwa/j7Ea8vMNVGE4luMASK6lslPmaPuEft1NsjNJ41gMAEOY=
