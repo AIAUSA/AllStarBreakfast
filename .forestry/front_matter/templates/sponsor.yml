@@ -1,7 +1,6 @@
 ---
 label: Sponsor
 hide_body: true
-is_partial: false
 fields:
 - type: text
   name: title
@@ -25,16 +24,16 @@ fields:
   name: logo
   label: Logo
 pages:
-- _sponsors/harvest-center.*.md
 - _sponsors/auntie-anne-s.*.md
-- _sponsors/the-movement-school.*.md
-- _sponsors/alan-douglas-events.*.md
-- _sponsors/wheeler-interiors.*.md
-- _sponsors/coke.*.md
-- _sponsors/chick-fil-a.*.md
-- _sponsors/lending-tree.*.md
-- _sponsors/trinity-park.*.md
-- _sponsors/dungy-foundation.*.md
 - _sponsors/the-greater-enrichment-program.*.md
-- _sponsors/gettleman.*.md
 - _sponsors/carolina-panthers.*.md
+- _sponsors/gettleman.*.md
+- _sponsors/dungy-foundation.*.md
+- _sponsors/trinity-park.*.md
+- _sponsors/lending-tree.*.md
+- _sponsors/chick-fil-a.*.md
+- _sponsors/coke.*.md
+- _sponsors/alan-douglas-events.*.md
+- _sponsors/the-movement-school.*.md
+- _sponsors/harvest-center.*.md
+- _sponsors/wheeler-interiors.*.md
