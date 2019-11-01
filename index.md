@@ -5,21 +5,21 @@ permalink: index
 page_sections:
 - template: about
   block: about
-  left_image: "/uploads/all-star-2019.png"
+  left_image: "/uploads/2020_AllStarBreakfast-logo-1.jpg"
   right_text: |-
     ###### All-Star Breakfast
 
-    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 13th Annual All-Star Breakfast on February 16th, 2019, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
+    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 15th Annual All-Star Breakfast on February 15th, 2020, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
   left_text: |-
     ###### All-Star Moms
 
     As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion courageous single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
-  right_image: "/uploads/all-star-moms-2019.png"
+  right_image: "/uploads/2020_AllStarBreakfast-logo.jpg"
 - template: countdown
   block: countdown
 - template: speakers
   block: speakers
-  header: 1
+  header: true
   bios:
   - template: speaker
     name: Paul Westphal
@@ -31,10 +31,11 @@ page_sections:
     name: David Thompson
     image: "/uploads/thompson.jpg"
     title: Bobby Jones Award Reciepent
-    credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball Hall of Fame
+    credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball
+      Hall of Fame
 - template: speakers
   block: speakers
-  header: 0
+  header: false
   bios:
   - template: speaker
     image: "/uploads/jerry.jpg"
@@ -54,7 +55,7 @@ page_sections:
     image: uploads/speaker2.jpg
 - template: speakers
   block: speakers
-  header: 0
+  header: false
   bios:
   - template: speaker
     name: Allan Houston
@@ -69,12 +70,13 @@ page_sections:
       Virginia Sports Hall of Fame in 2017
 - template: sponsors
   block: sponsors
+  title: ''
 - template: tickets
   block: prices
 - template: gallery
   block: gallery
 - template: committee
   block: committee
-  content: 
+  content: ''
 
 ---
