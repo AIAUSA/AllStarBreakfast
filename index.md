@@ -14,7 +14,7 @@ page_sections:
     ###### All-Star Moms
 
     As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion courageous single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
-  right_image: "/uploads/2020_AllStarBreakfast-logo.jpg"
+  right_image: "/uploads/AllStarMoms2020-LogoChiOutreach.png"
 - template: countdown
   block: countdown
 - template: speakers
