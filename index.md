@@ -78,6 +78,5 @@ page_sections:
 - template: committee
   block: committee
   content: ''
-published: false
 
 ---
