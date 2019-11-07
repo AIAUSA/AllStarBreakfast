@@ -1,16 +1,12 @@
 language: ruby
-rvm:
-- 2.1
 jdk: openjdk8
-install: gem install s3_website && bundle install
+install: gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install
+  jekyll -v 2.4.0 && gem install s3_website && bundle install
 script: bundle exec jekyll build
 after_success:
+- bash postbuild.sh
 - s3_website push
 notifications:
   slack:
     rooms:
-      secure: KCTo15uh6Daet17TUkojdQjn18p3SqZWxuHS7aNcGS3B4lpSbwJaDD5lhh7U0FjZCYUc4+b22GXuIm1kjDkWyxysb4wc7E1BLs5GbfsfCZP6JagMvRkrAbbHgbKGHL5dA+JrJb8QV/cmwO8hlrWX3aO3r59F20q1zHOYj6PGLw7SULl0+6R2vXgHoFC4Bae2IBvmj3ASCll34nFY7grbuV4myeogjZ9clG1/J8JBAFE93l3jagT+rUk9Q1qZCd5k3xcnH1icRyOGAEPbYEu1bCsU4yYTYR6PEl/F3+xyMQyg81r5Sy9e2gZ3HLA+XTaZw/+Fdutktf7nXFOom5PEl8DjjsYKupvd/OCQRxU8HlL9AunVFV2HCSBr7bu9sf0OL6Hm+Cwmp8zGnkjEkDa9k3jnB+cNooMFyM27hTpjmohNksl6/JM2ro3frR1C6lEbR/CgzroUIQMdGwVJqaYGE3mEFJljR0PvQDAZmV/oJtL0tYrGfgZ+8nYs/WQ/RwG0BbR9A9OCnO35nflQvbUy5O2nIW32lF4kQTCYqPIP6Nh6wZNOKcCqIPse1Jqdi5w1jWzO83FB0OGS2DzYsWe38st6raqlcEAl8QDCNUUNnl3zkcQWTRaVwIoHMbCsrA3HVHVxRZqJFJuGAeNzBSrs0qfd92bNflWZEZEz0cxBb+A=
-env:
-  global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-sudo: false
+      secure: iwQjfNs76sdNllnshkZWGqAoh/a6E9/DehTucQxT1/25bDT1i3e26cBsIl0XxTKiPly+axTnkoC7bX7BTBihuo9RQYUXMf5JpP+lpbk8aziTkvzqSqpPdu7y9zxYuqtxw5V1dj2I+8zFqAbNEtuZU3ULwjOfvn8Yyj17w3lJ/ExpYFkP9GuMstpYfIRT2k2DG43LfWzkmkvORkk7O3k4ib0IVoUXhDddKKZt5tFzxMmVdXP/LyjY9DW65P32ydf7L/h/ThdEAxgvRuESlorph1nBIg55VyDupXjMuw4wCJSdbqO6EiCas+6aDFc1xRtqmaASH1wzi6iKgWANl6vrA51cEqaje4Vj+Qa5AXKzSnK9pZk6+2S/9OcRdDzELuiltqQ/IERz7pMaHRWTiuz7uVLivWudzBNn3ZuflBzRDqTQw+a3TwddohXc3fu1MdS1oxT5oAF6GsnpT/WVzEYm48SJMJPkjN6KUF7nwMMsseUH7LRtUD8Ibdh4HR6TqINZOz/+XE5mkDqLhNkF8Ohko8ReaWO67OQ8t6FtVJChCMGg90J9TzW9OgaIJ6vbeifVh7E7v3FEFgXjhgbcdWyXWnPLftrIaNxWafow+Q9y5yNQWi9DnmR+OrBTkB7KKZgm2njm7tOJlg5FqrLE2g5c1pplI2JR7iP9RfaUCc0ZPYs=
