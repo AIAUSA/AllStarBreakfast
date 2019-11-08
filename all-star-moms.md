@@ -6,8 +6,8 @@ slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center' style='display: flex; justify-content: center;'><img
-    src='/uploads/all-star-moms-2019.png' /></div>"
+  content: "<div class='row align-center col-md-4 col-md-offset-4' style='display: flex; justify-content: center;'><img
+    src='/uploads/AllStarMoms2020-LogoChiOutreach.png' /></div>"
 - template: html-text
   block: text
   content: |-
