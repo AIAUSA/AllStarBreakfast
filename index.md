@@ -23,7 +23,7 @@ page_sections:
   bios:
   - template: speaker
     name: Paul Westphal
-    title: Jerry Colangelo Award Recipent - test draft mode
+    title: 'Jerry Colangelo Award Recipient - test draft mode '
     credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals,
       All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
     image: "/uploads/paul-W-cropped.jpg"
