@@ -30,7 +30,7 @@ page_sections:
   - template: speaker
     name: David Thompson
     image: "/uploads/thompson.jpg"
-    title: Bobby Jones Award Reciepent
+    title: Bobby Jones Award Recipient
     credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball
       Hall of Fame
 - template: speakers
