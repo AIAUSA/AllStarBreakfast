@@ -5,16 +5,16 @@ permalink: index
 page_sections:
 - template: about
   block: about
-  left_image: "/uploads/2020_AllStarBreakfast-logo-1.jpg"
+  left_image: "/uploads/19-asb-logo.png"
   right_text: |-
     ###### All-Star Breakfast
 
-    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 15th Annual All-Star Breakfast on February 15th, 2020, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
+    Athletes in Action, in partnership with the NBA Retired Players Association, will be hosting the 15th Annual All-Star Breakfast on February 16th, 2019, during the NBA All-Star Weekend. This event will celebrate character, leadership and faith and includes the presentation of the Jerry Colangelo and Bobby Jones Awards.
   left_text: |-
     ###### All-Star Moms
 
     As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion courageous single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
-  right_image: "/uploads/AllStarMoms2020-LogoChiOutreach.png"
+  right_image: "/uploads/All-Star Moms-Logo-2019 altered.png"
 - template: countdown
   block: countdown
 - template: speakers
@@ -78,5 +78,6 @@ page_sections:
 - template: committee
   block: committee
   content: ''
+published: false
 
 ---
