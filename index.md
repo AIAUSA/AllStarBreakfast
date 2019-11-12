@@ -54,7 +54,7 @@ page_sections:
       <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
   - template: speaker
-    name: ''
+    name: Test Name
     title: ''
     credentials: ''
     image: ''
