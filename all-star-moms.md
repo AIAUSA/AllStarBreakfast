@@ -1,13 +1,14 @@
 ---
 title: All Star Moms
 layout: blocks
-date: 2018-11-15 13:12:20 +0000
+date: '2018-11-15T13:12:20.000+00:00'
 slug: all-star-moms
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center col-md-4 col-md-offset-4' style='display: flex; justify-content: center;'><img
-    src='/uploads/AllStarMoms2020-LogoChiOutreach.png' /></div>"
+  content: "<div class='row align-center col-md-4 col-md-offset-4' style='display:
+    flex; justify-content: center;'><img src='/uploads/AllStarMoms2020-LogoChiOutreach.png'
+    /></div>"
 - template: html-text
   block: text
   content: |-
@@ -16,7 +17,7 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: sponsors
   block: sponsors
-  title: ''
+  title: All-Star Moms 2019 Title Sponsor
 - template: centered-text
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
