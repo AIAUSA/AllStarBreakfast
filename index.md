@@ -53,6 +53,11 @@ page_sections:
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
       <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
+  - template: speaker
+    name: ''
+    title: ''
+    credentials: ''
+    image: ''
 - template: speakers
   block: speakers
   header: false
