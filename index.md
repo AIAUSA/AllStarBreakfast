@@ -55,9 +55,9 @@ page_sections:
     image: uploads/speaker2.jpg
   - template: speaker
     name: Test Name
-    title: ''
-    credentials: ''
-    image: ''
+    title: This is a test
+    credentials: This is a test
+    image: "/uploads/Trinity Park logo.png"
 - template: speakers
   block: speakers
   header: false
