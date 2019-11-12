@@ -53,11 +53,6 @@ page_sections:
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
       <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
-  - template: speaker
-    name: Test Name
-    title: This is a test
-    credentials: This is a test
-    image: "/uploads/Trinity Park logo.png"
 - template: speakers
   block: speakers
   header: false
