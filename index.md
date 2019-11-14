@@ -70,7 +70,8 @@ page_sections:
       Virginia Sports Hall of Fame in 2017
 - template: sponsors
   block: sponsors
-  title: ''
+  title: 'Breakfast Sponsors'
+  type: 'home'
 - template: tickets
   block: prices
 - template: gallery

@@ -11,3 +11,13 @@ fields:
 - type: text
   name: title
   label: Section Title
+- type: select
+  name: type
+  label: Sponsor Type
+  default: "home"
+  config:
+    source:
+      type: custom
+    options:
+      - "home"
+      - "mom"

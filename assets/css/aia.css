@@ -148,5 +148,5 @@ h3 {
 .text ul li { margin-left: 30px; }
 
 .Moms .section { padding: 15px; }
-.Moms .align-center { color: #518CA9; font-size: 17px; }
+.Moms .align-center { color: #000; font-size: 17px; }
 .Moms .section:has(.videowrapper) { padding: 30px; }

@@ -1,53 +1,56 @@
 <section id="sponsors" class="section align-center">
 	<div class="container">
 		{% if site.sponsors.size > 0 %}
-		<span class="icon section-icon icon-documents-bookmarks-12"></span>
-
-		{% assign ntsponsors = site.sponsors | where: "type", "Title Sponsor" | sort: "date" | reverse %}
-		{% if ntsponsors.size > 0 %}
-		<h3>Weekend Title Sponsor</h3>
-		<div class="sponsors">
-			{% for s in ntsponsors %}
-			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-			{% endfor %}
-		</div>
-		{% endif %}
-		{% assign ntsponsors = site.sponsors | where: "type", "Breakfast Title Sponsor" | sort: "date" | reverse %}
-		{% if ntsponsors.size > 0 %}
-		<h3>All Star Breakfast Title Sponsor</h3>
-		<div class="sponsors">
-			{% for s in ntsponsors %}
-			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-			{% endfor %}
-		</div>
-		{% endif %}
-		{% assign ntsponsors = site.sponsors | where: "type", "Mom Title Sponsor" | sort: "date" | reverse %}
-		{% if ntsponsors.size > 0 %}
-		<h3>All Star Mom's Title Sponsor</h3>
-		<div class="sponsors">
-			{% for s in ntsponsors %}
-			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-			{% endfor %}
-		</div>
-		{% endif %}
-		{% assign psponsors = site.sponsors | where: "type", "Sponsor" | sort: "date" | reverse %}
-		{% if psponsors.size > 0 %}
-		<h4>{{ section.title }} Sponsors</h4>
-		<div class="sponsors">
-			{% for s in psponsors %}
-			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-			{% endfor %}
-		</div>
-		{% endif %}
-		{% assign csponsors = site.sponsors | where: "type", "In-kind Sponsors" | sort: "date" | reverse %}
-		{% if csponsors.size > 0 %}
-		<h4>In-kind Sponsors</h4>
-		<div class="sponsors">
-			{% for s in csponsors %}
-			<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-			{% endfor %}
-		</div>
-		{% endif %}
+			<span class="icon section-icon icon-documents-bookmarks-12"></span>
+			{% if section.type == 'home' %}
+				{% assign ntsponsors = site.sponsors | where: "type", "Breakfast Title Sponsor" | sort: "date" | reverse %}
+				{% if ntsponsors.size > 0 %}
+				<h3>All Star Breakfast Title Sponsor</h3>
+				<div class="sponsors">
+					{% for s in ntsponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+				{% assign psponsors = site.sponsors | where: "type", "Sponsor" | sort: "date" | reverse %}
+				{% if psponsors.size > 0 %}
+				<h4>{{ section.title }}</h4>
+				<div class="sponsors">
+					{% for s in psponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+			
+			{% else %}
+				{% assign ntsponsors = site.sponsors | where: "type", "Title Sponsor" | sort: "date" | reverse %}
+				{% if ntsponsors.size > 0 %}
+				<h3>Weekend Title Sponsor</h3>
+				<div class="sponsors">
+					{% for s in ntsponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+				{% assign ntsponsors = site.sponsors | where: "type", "Mom Title Sponsor" | sort: "date" | reverse %}
+				{% if ntsponsors.size > 0 %}
+				<h3>{{section.title }}</h3>
+				<div class="sponsors">
+					{% for s in ntsponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+				{% assign csponsors = site.sponsors | where: "type", "In-kind Sponsors" | sort: "date" | reverse %}
+				{% if csponsors.size > 0 %}
+				<h4>In-kind Sponsors</h4>
+				<div class="sponsors">
+					{% for s in csponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+			{% endif %}
 		{% endif %}
 	</div>
 </section>
