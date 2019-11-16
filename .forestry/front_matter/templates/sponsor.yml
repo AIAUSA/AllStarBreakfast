@@ -25,13 +25,10 @@ fields:
   label: Logo
 pages:
 - _sponsors/the-greater-enrichment-program.*.md
-- _sponsors/carolina-panthers.*.md
 - _sponsors/gettleman.*.md
 - _sponsors/dungy-foundation.*.md
 - _sponsors/trinity-park.*.md
 - _sponsors/lending-tree.*.md
-- _sponsors/chick-fil-a.*.md
-- _sponsors/coke.*.md
 - _sponsors/the-movement-school.*.md
 - _sponsors/harvest-center.*.md
 - _sponsors/wheeler-interiors.*.md
