@@ -5,7 +5,7 @@ permalink: index
 page_sections:
 - template: about
   block: about
-  left_image: "/uploads/19-asb-logo.png"
+  left_image: "/uploads/all-star-2020.png"
   right_text: |-
     ###### All-Star Breakfast
 
@@ -14,7 +14,7 @@ page_sections:
     ###### All-Star Moms
 
     As a service to the local community, Athletes in Action has created The All-Star Moms Champion Outreach, which occurs in conjunction with the All-Star Breakfast. It is designed to champion courageous single moms, by delivering a rare opportunity for support and encouragement with an exclusive All-Star experience. The aim is to encourage these moms to continue strong in the demanding journey of single parenting.
-  right_image: "/uploads/All-Star Moms-Logo-2019 altered.png"
+  right_image: "/uploads/AllStarMoms2020-LogoChiOutreach.png"
 - template: countdown
   block: countdown
 - template: speakers
@@ -70,8 +70,8 @@ page_sections:
       Virginia Sports Hall of Fame in 2017
 - template: sponsors
   block: sponsors
-  title: 'Breakfast Sponsors'
-  type: 'home'
+  title: Breakfast Sponsors
+  type: home
 - template: tickets
   block: prices
 - template: gallery
