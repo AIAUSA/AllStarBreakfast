@@ -149,4 +149,5 @@ h3 {
 
 .Moms .section { padding: 15px; }
 .Moms .align-center { color: #000; font-size: 17px; }
+.Moms .align-center.light-text { color: #fff !important; }
 .Moms .section:has(.videowrapper) { padding: 30px; }
