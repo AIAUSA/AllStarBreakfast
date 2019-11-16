@@ -23,7 +23,3 @@ fields:
 - type: file
   name: logo
   label: Logo
-pages:
-- _sponsors/trinity-park.*.md
-- _sponsors/the-movement-school.*.md
-- _sponsors/wheeler-interiors.*.md
