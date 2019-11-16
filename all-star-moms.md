@@ -17,8 +17,8 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: sponsors
   block: sponsors
-  title: "2019 All Star Mom's Title Sponsor"
-  type: 'mom'
+  title: 2020 All Star Mom's Title Sponsor
+  type: mom
 - template: centered-text
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
