@@ -24,7 +24,6 @@ fields:
   name: logo
   label: Logo
 pages:
-- _sponsors/auntie-anne-s.*.md
 - _sponsors/the-greater-enrichment-program.*.md
 - _sponsors/carolina-panthers.*.md
 - _sponsors/gettleman.*.md
