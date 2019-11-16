@@ -14,10 +14,10 @@ fields:
 - type: select
   name: type
   label: Sponsor Type
-  default: "home"
+  default: home
   config:
     source:
       type: custom
     options:
-      - "home"
-      - "mom"
+    - home
+    - mom
