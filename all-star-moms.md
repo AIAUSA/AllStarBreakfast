@@ -55,8 +55,7 @@ page_sections:
 - template: centered-text
   block: centered-text
   content: |-
-    **[Make a Donation to help fund All-Star Mom's](https://give.cru.org/0966957)**
-
+    [**Click Here to Help Fund the All-Star Moms Outreach**]()
 
     **Sponsorship Opportunities Available**
 
