@@ -60,6 +60,6 @@ page_sections:
 
     **Sponsorship Opportunities Available**
 
-    Contact us at:  [AllStarMoms@athletesinaction.org](AllStarMoms@athletesinaction.org)
+    Contact us at:  [AllStarMoms@athletesinaction.org](mailto:AllStarMoms@athletesinaction.org)
 
 ---
