@@ -19,22 +19,6 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
-  header: true
-  bios:
-  - template: speaker
-    name: Paul Westphal
-    title: 'Jerry Colangelo Award Recipient '
-    credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals,
-      All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
-    image: "/uploads/paul-W-cropped.jpg"
-  - template: speaker
-    name: David Thompson
-    image: "/uploads/thompson.jpg"
-    title: Bobby Jones Award Recipient
-    credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball
-      Hall of Fame
-- template: speakers
-  block: speakers
   header: false
   bios:
   - template: speaker
@@ -53,6 +37,27 @@ page_sections:
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
       <br /> NFL Hall of Fame
     image: uploads/speaker2.jpg
+- template: speakers
+  block: speakers
+  header: true
+  bios:
+  - template: speaker
+    name: Paul Westphal
+    title: 'Jerry Colangelo Award Recipient '
+    credentials: 1974 NBA Title Boston Celtics, 1992 Head Coach Phoenix Suns NBA Finals,
+      All-American USC, 5x NBA All Star, 2x All Star Game Head Coach
+    image: "/uploads/paul-W-cropped.jpg"
+  - template: speaker
+    name: David Thompson
+    image: "/uploads/thompson.jpg"
+    title: Bobby Jones Award Recipient
+    credentials: 3 x All-American, College Player of the Year, 4 x NBA All Star, Basketball
+      Hall of Fame
+  - template: speaker
+    name: ''
+    title: ''
+    credentials: ''
+    image: ''
 - template: speakers
   block: speakers
   header: false
