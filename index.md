@@ -57,11 +57,6 @@ page_sections:
   header: false
   bios:
   - template: speaker
-    name: Allan Houston
-    image: "/uploads/houston.jpg"
-    title: Asst. General Manager, Knicks
-    credentials: College All-American, 2 x NBA All-Star, Olympic Gold Medalist
-  - template: speaker
     name: Kim Anthony
     image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
     title: Author & Speaker
