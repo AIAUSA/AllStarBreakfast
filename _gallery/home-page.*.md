@@ -17,8 +17,8 @@ images:
 - "/uploads/DSC_9592.jpg"
 - "/uploads/DSC_2802.JPG"
 - "/uploads/Randy Pfund Jerry, Chris Kim.JPG"
+- "/uploads/ASM 2019 Smiles 2.jpg"
 - "/uploads/Tony Dungy Speaks at ASB 2019.JPG"
 - "/uploads/Dell and Fam.jpg"
-- "/uploads/ASM 2019 Smiles 2.jpg"
 
 ---
