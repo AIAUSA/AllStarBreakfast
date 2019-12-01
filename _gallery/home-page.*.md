@@ -6,7 +6,6 @@ images:
 - "/uploads/Tony Dungy Speaks at ASB 2019.JPG"
 - "/uploads/ASM 2019 Smiles 4.jpg"
 - "/uploads/Corwin, Kim, Kareem ASB 2019.JPG"
-- "/uploads/ASM 2019 Smiles 2.jpg"
 - "/uploads/WLOM 2018 Kim Intros Mike Warren 3.jpeg"
 - "/uploads/RED (76).jpeg"
 - "/uploads/RED (60).jpeg"
@@ -22,6 +21,7 @@ images:
 - "/uploads/DSC_9592.jpg"
 - "/uploads/DSC_2802.JPG"
 - "/uploads/Dell and Fam.jpg"
+- "/uploads/ASM 2019 Smiles 2.jpg"
 - "/uploads/Lindsey Hunter Bobby J House 2018.JPG"
 
 ---
