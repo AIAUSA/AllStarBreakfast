@@ -31,25 +31,6 @@ page_sections:
     credentials: 5 x NBA All Star 10 X All-Defensive Team
     title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
     image: "/uploads/bobby.jpg"
-- template: speakers
-  block: speakers
-  header: true
-  bios:
-  - template: speaker
-    name: ''
-    title: ''
-    credentials: ''
-    image: ''
-- template: speakers
-  block: speakers
-  header: false
-  bios:
-  - template: speaker
-    name: Kim Anthony
-    image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
-    title: Author & Speaker
-    credentials: 4-Time NCAA National Champion Gymnast, UCLA Hall of Fame in 2000,
-      Virginia Sports Hall of Fame in 2017
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
