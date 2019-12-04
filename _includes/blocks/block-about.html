@@ -4,19 +4,30 @@
         <span class="icon section-icon icon-sport-04"></span>
         <h3>{{ site.data.event.event-name }}</h3>
         <p class="text-alt">{{ site.data.event.dayofweek }}, <span class="highlight">{{ site.data.event.full_date }}</span> {{ site.data.event.start_time }}</p>
+        {% if site.data.event.location %}
+        <p class="text-alt">
+                {% if site.data.event.hotel-link != nil %}
+                <a href="{{ site.data.event.hotel-link }}" target="_new">{{ site.data.event.location }}</a>
+                {% else %}
+                {{ site.data.event.location }}
+                {% endif %}
+        </p>
+        {% endif %}
+        {% if site.data.event.address %}
+        <p class="text-alt">{{ site.data.event.address }} <br /> {{ site.data.event.city-state }}
+        {% endif %}
         <br />
         <br />
 
         <div class="tabs-wrapper tabs-horizontal">
-            <!-- <ul class="nav nav-tabs">
+            <ul class="nav nav-tabs">
                 <li class="active"><a href="#horizontal_tab1" data-toggle="tab">
-                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> {{ site.data.event.event-name }}</h6>
+                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> {{ site.data.event.event_name }}</h6>
                 </a></li>
                 <li><a href="#horizontal_tab3" data-toggle="tab">
                     <h6 class="heading-alt"><span class="fa fa-trophy"></span> {{ winner[0].year }} Winner</h6>
                 </a></li>
-            </ul> -->
-
+            </ul> 
             <div class="tab-content">
                 <div id="horizontal_tab1" class="tab-pane fade active in">
                     <div class="row">
@@ -38,7 +49,7 @@
                 </div>
 
                 
-                <!-- <div id="horizontal_tab3" class="tab-pane fade">
+                <div id="horizontal_tab3" class="tab-pane fade">
                     <div class="col-sm-5 img-column">
                         <img src="{{winner[0].feature_image}}" alt="" class="img-responsive">
                     </div>
@@ -46,7 +57,7 @@
                         <h6>{{winner[0].title}}</h6>
                         {{ winner[0].content }}
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
     </div>

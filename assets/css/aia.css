@@ -93,6 +93,7 @@ h3 {
 }
 
 .header.fixed .header-wrapper { position: static !important; }
+.btn { background-color: #C62443;}
 
 @media (max-width: 767px) { 
   .sbblogo {

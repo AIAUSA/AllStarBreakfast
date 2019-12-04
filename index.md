@@ -19,7 +19,8 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
-  header: false
+  header: true
+  title: 2020 All-Star Breakfast Program
   bios:
   - template: speaker
     image: "/uploads/jerry.jpg"
@@ -31,6 +32,9 @@ page_sections:
     credentials: 5 x NBA All Star 10 X All-Defensive Team
     title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
     image: "/uploads/bobby.jpg"
+- template: html-text
+  block: text
+  content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>  
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
