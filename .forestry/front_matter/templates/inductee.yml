@@ -15,3 +15,12 @@ fields:
 - type: file
   name: feature_image
   label: Image
+- type: select
+  name: type
+  label: Award
+  config:
+    source:
+      type: custom
+    options:
+    - Jerry
+    - Bobby
