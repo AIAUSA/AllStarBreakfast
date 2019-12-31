@@ -36,8 +36,7 @@ page_sections:
     image: "/uploads/Norm Sanju cropped.jpg"
     name: Norm Sanju
     title: Jerry Colangelo Award Winnter
-    credentials: 'President/GM Buffalo Braves, 1976-78; helped start Dallas Mavericks
-      and Dallas Sidekicks: Mavericks President/GM,1980-1996;'
+    credentials: President/GM Buffalo Braves,1976-78; Dallas Mavericks President/GM,1980-1996;
   - template: speaker
     image: "/uploads/Mark Price cropped.jpg"
     name: Mark Price
