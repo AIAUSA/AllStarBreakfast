@@ -38,7 +38,7 @@ page_sections:
     title: Jerry Colangelo Award Winnter
     credentials: President/GM Buffalo Braves,1976-78; Dallas Mavericks President/GM,1980-1996;
   - template: speaker
-    image: "/uploads/Mark Price cropped.jpg"
+    image: "/uploads/Mark Price cropped-1.jpg"
     name: Mark Price
     title: Bobby Jones Award Winner
     credentials: 4 x NBA All-Star; 2 x NBA 3 Point Shootout Champion; 50-40-90 Club;
@@ -54,8 +54,5 @@ page_sections:
   block: prices
 - template: gallery
   block: gallery
-- template: committee
-  block: committee
-  content: ''
 
 ---
