@@ -32,9 +32,21 @@ page_sections:
     credentials: 5 x NBA All Star 10 X All-Defensive Team
     title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
     image: "/uploads/bobby.jpg"
+  - template: speaker
+    image: "/uploads/Norm Sanju.jpeg"
+    name: Norm Sanju
+    title: Jerry Colangelo Award Winnter
+    credentials: 'President/GM Buffalo Braves, 1976-78; helped start Dallas Mavericks
+      and Dallas Sidekicks: Mavericks President/GM,1980-1996;'
+  - template: speaker
+    image: "/uploads/Mark Price cropped.jpg"
+    name: Mark Price
+    title: Bobby Jones Award Winner
+    credentials: 4 x NBA All-Star; 2 x NBA 3 Point Shootout Champion; 50-40-90 Club;
+      3 x College All-American
 - template: html-text
   block: text
-  content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>  
+  content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
