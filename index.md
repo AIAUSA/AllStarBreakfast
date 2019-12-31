@@ -33,7 +33,7 @@ page_sections:
     title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
     image: "/uploads/bobby.jpg"
   - template: speaker
-    image: "/uploads/Norm Sanju.jpeg"
+    image: "/uploads/Norm Sanju cropped.jpg"
     name: Norm Sanju
     title: Jerry Colangelo Award Winnter
     credentials: 'President/GM Buffalo Braves, 1976-78; helped start Dallas Mavericks
