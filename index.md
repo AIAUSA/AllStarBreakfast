@@ -35,7 +35,7 @@ page_sections:
   - template: speaker
     image: "/uploads/Norm Sanju cropped.jpg"
     name: Norm Sanju
-    title: Jerry Colangelo Award Winnter
+    title: Jerry Colangelo Award Winner
     credentials: President/GM Buffalo Braves,1976-78; Dallas Mavericks President/GM,1980-1996
   - template: speaker
     image: "/uploads/Mark Price cropped-2.jpg"
