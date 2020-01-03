@@ -19,6 +19,10 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
+  header: false
+  bios: []
+- template: speakers
+  block: speakers
   header: true
   title: 2020 All-Star Breakfast Program
   bios:
