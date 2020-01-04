@@ -47,6 +47,16 @@ page_sections:
     credentials: 4 x NBA All-Star; 2 x NBA 3 Point Shootout Champion; 50-40-90 Club;
       3 x College All-American
     image: "/uploads/Mark Price cropped-3.jpg"
+- template: speakers
+  block: speakers
+  bios:
+  - template: speaker
+    image: "/uploads/Chet Walker.png"
+    name: Chet Walker
+    credentials: Chicago Bulls; NBA Champion with the 76ers 1967; 7 x NBA All-Star;
+      Basketball Hall of Fame
+    title: ''
+  header: false
 - template: html-text
   block: text
   content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
