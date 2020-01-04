@@ -53,9 +53,9 @@ page_sections:
   - template: speaker
     image: "/uploads/Chet Walker-1.png"
     name: Chet Walker
-    credentials: Chicago Bulls; NBA Champion with the 76ers 1967; 7 x NBA All-Star;
-      Basketball Hall of Fame
-    title: ''
+    credentials: ''
+    title: Chicago Bulls; NBA Champion with the 76ers 1967; 7 x NBA All-Star; Basketball
+      Hall of Fame
   - template: speaker
     image: "/uploads/Bob Love-1.jpg"
     name: Bob Love
