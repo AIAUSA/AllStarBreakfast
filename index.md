@@ -61,6 +61,11 @@ page_sections:
     name: Bob Love
     credentials: ''
     title: Chicago Bulls; 3 x NBA All-Star; 3 x NBA All-Defensive Team
+  - template: speaker
+    name: Matt Forte
+    title: 'Chicago Bears; 2 x Pro Bowl; 3 consecutive 1,000-plus rushing yards '
+    image: "/uploads/Matt Forte cropped-1.jpg"
+    credentials: ''
   header: false
 - template: html-text
   block: text
@@ -73,6 +78,5 @@ page_sections:
   block: prices
 - template: gallery
   block: gallery
-published: false
 
 ---
