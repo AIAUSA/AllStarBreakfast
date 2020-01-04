@@ -56,6 +56,11 @@ page_sections:
     credentials: Chicago Bulls; NBA Champion with the 76ers 1967; 7 x NBA All-Star;
       Basketball Hall of Fame
     title: ''
+  - template: speaker
+    image: "/uploads/Bob Love.jpg"
+    name: Bob Love
+    credentials: Chicago Bulls; 3 x NBA All-Star; 3 x NBA All-Defensive Team
+    title: ''
   header: false
 - template: html-text
   block: text
