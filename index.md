@@ -59,8 +59,8 @@ page_sections:
   - template: speaker
     image: "/uploads/Bob Love-1.jpg"
     name: Bob Love
-    credentials: Chicago Bulls; 3 x NBA All-Star; 3 x NBA All-Defensive Team
-    title: ''
+    credentials: ''
+    title: Chicago Bulls; 3 x NBA All-Star; 3 x NBA All-Defensive Team
   header: false
 - template: html-text
   block: text
