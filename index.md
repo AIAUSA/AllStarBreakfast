@@ -52,6 +52,12 @@ page_sections:
     title: Jerry Colangelo Award Winner
     credentials: Co-Founder, President/FM Dallas Mavericks 1980-1996
     image: "/uploads/Norm Sanju cropped-1.jpg"
+  - template: speaker
+    name: Mark Price
+    title: Bobby Jones Award Winner
+    credentials: 4 x NBA All-Star; 2 x NBA 3 Point Shootout Champion; 50-40-90 Club;
+      3 x College All-American
+    image: "/uploads/Mark Price cropped-3.jpg"
 - template: html-text
   block: text
   content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
