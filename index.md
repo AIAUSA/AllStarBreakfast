@@ -57,7 +57,7 @@ page_sections:
       Basketball Hall of Fame
     title: ''
   - template: speaker
-    image: "/uploads/Bob Love.jpg"
+    image: "/uploads/Bob Love-1.jpg"
     name: Bob Love
     credentials: Chicago Bulls; 3 x NBA All-Star; 3 x NBA All-Defensive Team
     title: ''
