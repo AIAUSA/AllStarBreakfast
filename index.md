@@ -64,7 +64,7 @@ page_sections:
   - template: speaker
     name: Matt Forte
     title: 'Chicago Bears; 2 x Pro Bowl; 3 consecutive 1,000-plus rushing yards '
-    image: "/uploads/Matt Forte cropped-1.jpg"
+    image: "/uploads/Matt Forte cropped-2.jpg"
     credentials: ''
   header: false
 - template: html-text
