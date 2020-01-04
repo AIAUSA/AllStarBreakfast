@@ -39,7 +39,8 @@ page_sections:
   - template: speaker
     name: Norm Sonju
     title: Jerry Colangelo Award Winner
-    credentials: Co-Founder, President/GM Dallas Mavericks 1980-1996
+    credentials: Co-Founder, President/GM Dallas Mavericks 1980-1996; President/GM
+      Buffalo Braves 1976-78
     image: "/uploads/Norm Sanju cropped-1.jpg"
   - template: speaker
     name: Mark Price
