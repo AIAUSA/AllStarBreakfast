@@ -79,5 +79,6 @@ page_sections:
   block: prices
 - template: gallery
   block: gallery
+published: false
 
 ---
