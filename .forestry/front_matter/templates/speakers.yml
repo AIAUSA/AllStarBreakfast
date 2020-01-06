@@ -12,6 +12,9 @@ fields:
   name: header
   label: Headers
   description: Shows header for this section
+- type: text
+  label: Title
+  name: title
 - type: blocks
   template_types:
   - speaker
