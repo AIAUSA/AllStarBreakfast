@@ -21,6 +21,7 @@ page_sections:
   block: speakers
   header: true
   title: 2020 All-Star Breakfast Program
+  group-title: Featured Presenters
   bios:
   - template: speaker
     image: "/uploads/jerry.jpg"
@@ -35,6 +36,7 @@ page_sections:
 - template: speakers
   block: speakers
   header: false
+  group-title: Award Winners
   bios:
   - template: speaker
     name: Norm Sonju
@@ -50,6 +52,7 @@ page_sections:
     image: "/uploads/Mark Price cropped-3.jpg"
 - template: speakers
   block: speakers
+  group-title: Special Guests
   bios:
   - template: speaker
     image: "/uploads/Chet Walker-1.png"
