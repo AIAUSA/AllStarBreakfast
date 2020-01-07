@@ -78,7 +78,7 @@ page_sections:
   - template: speaker
     name: Kim Anthony
     image: "/uploads/Kim Anthony headshot copy 2.jpg"
-    title: ''
+    title: 6 x All-American,  4 x National Champion- UCLA Gymnastics
     credentials: ''
   - template: speaker
     image: "/uploads/Allan Houston copy.jpg"
