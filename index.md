@@ -71,13 +71,28 @@ page_sections:
     image: "/uploads/Matt Forte cropped-2.jpg"
     credentials: ''
   header: false
+- template: speakers
+  block: speakers
+  group-title: Co-Emcees
+  bios:
+  - template: speaker
+    name: Kim Anthony
+    image: "/uploads/Kim Anthony headshot copy 2.jpg"
+    title: ''
+    credentials: ''
+  - template: speaker
+    image: "/uploads/Allan Houston copy.jpg"
+    name: Allan Houston
+    title: 2 x NBA All-Star,  Olympic Gold Medalist, College All-American
+    credentials: ''
+  header: false
 - template: html-text
   block: text
   content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
-  type: home
+  type: ''
 - template: tickets
   block: prices
 - template: gallery
