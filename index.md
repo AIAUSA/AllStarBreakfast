@@ -43,7 +43,7 @@ page_sections:
     title: Jerry Colangelo Award Winner
     credentials: Co-Founder, President/GM Dallas Mavericks 1980-1996; President/GM
       Buffalo Braves 1976-78
-    image: "/uploads/Norm Sanju cropped-2.jpg"
+    image: "/uploads/Norm Sanju cropped-3.jpg"
   - template: speaker
     name: Mark Price
     title: Bobby Jones Award Winner
