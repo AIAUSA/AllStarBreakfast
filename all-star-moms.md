@@ -19,7 +19,7 @@ page_sections:
 - template: sponsors
   block: sponsors
   title: 2020 All Star Mom's Title Sponsor
-  type: mom
+  type: ''
 - template: centered-text
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
@@ -61,5 +61,9 @@ page_sections:
     **Sponsorship Opportunities Available**
 
     Contact us at:  [AllStarMoms@athletesinaction.org](mailto:AllStarMoms@athletesinaction.org)
+- template: sponsors
+  block: sponsors
+  type: home
+  title: Presented By
 
 ---
