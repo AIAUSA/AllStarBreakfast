@@ -86,9 +86,6 @@ page_sections:
     title: 2 x NBA All-Star,  Olympic Gold Medalist, College All-American
     credentials: ''
   header: false
-- template: html-text
-  block: text
-  content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
