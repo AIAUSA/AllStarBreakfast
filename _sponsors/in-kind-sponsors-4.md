@@ -1,7 +1,7 @@
 ---
-title: 'Moms In-Kind Sponsor un-Dinai-able '
+title: 'Moms Partner Sponsor un-Dinai-able '
 link: https://dinaiyelverton.com/
-type: 'In-kind Sponsor'
+type: Mom Partner Sponsor
 logo: "/uploads/LogoForPrint-1.jpg"
 
 ---
