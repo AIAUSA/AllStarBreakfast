@@ -89,7 +89,7 @@ page_sections:
 - template: sponsors
   block: sponsors
   title: Breakfast Sponsors
-  type: ''
+  type: home
 - template: tickets
   block: prices
 - template: gallery
