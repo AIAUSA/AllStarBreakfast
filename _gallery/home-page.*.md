@@ -13,7 +13,6 @@ images:
 - "/uploads/RED (29).jpeg"
 - "/uploads/Corwin, Kim, Kareem ASB 2019.JPG"
 - "/uploads/DSC_9837.jpg"
-- "/uploads/ASM 2019 Smiles 4-1.jpg"
 - "/uploads/DSC_2802.JPG"
 - "/uploads/Randy Pfund Jerry, Chris Kim.JPG"
 - "/uploads/Tony Dungy Speaks at ASB 2019.JPG"
