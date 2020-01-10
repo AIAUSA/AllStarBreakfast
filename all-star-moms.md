@@ -16,10 +16,6 @@ page_sections:
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
         class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/avUnn7FEej0"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
-- template: sponsors
-  block: sponsors
-  title: 2020 All Star Mom's Title Sponsor
-  type: ''
 - template: centered-text
   block: centered-text
   content: "**We have an opportunity to help change the statistics and impact single
@@ -61,6 +57,10 @@ page_sections:
     **Sponsorship Opportunities Available**
 
     Contact us at:  [AllStarMoms@athletesinaction.org](mailto:AllStarMoms@athletesinaction.org)
+- template: sponsors
+  block: sponsors
+  title: 2020 All Star Mom's Title Sponsor
+  type: ''
 - template: sponsors
   block: sponsors
   type: home
