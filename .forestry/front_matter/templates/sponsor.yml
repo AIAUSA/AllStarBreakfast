@@ -18,7 +18,7 @@ fields:
     - Mom Presenting Sponsor
     - Mom Partner Sponsor
     - Mom Sponsor
-    - In-kind Sponsor 
+    - In-kind Sponsor
   label: Type
 - type: file
   name: logo
