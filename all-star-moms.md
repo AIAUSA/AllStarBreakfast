@@ -49,14 +49,6 @@ page_sections:
     they face and pursue a life of purpose. You can read more about Kim at www.KimAnthony.net.</em></p>"
   image: "/uploads/Kim Anthony Headshot Gray Portrait .jpeg"
   photo_size: 2
-- template: centered-text
-  block: centered-text
-  content: |-
-    [**Click Here to Help Fund the All-Star Moms Outreach**](https://give.cru.org/0966957)
-
-    **Sponsorship Opportunities Available**
-
-    Contact us at:  [AllStarMoms@athletesinaction.org](mailto:AllStarMoms@athletesinaction.org)
 - template: sponsors
   block: sponsors
   title: 2020 All Star Mom's Title Sponsor
@@ -65,5 +57,13 @@ page_sections:
   block: sponsors
   type: home
   title: Presented By
+- template: centered-text
+  block: centered-text
+  content: |-
+    [**Click Here to Help Fund the All-Star Moms Outreach**](https://give.cru.org/0966957)
+
+    **Sponsorship Opportunities Available**
+
+    Contact us at:  [AllStarMoms@athletesinaction.org](mailto:AllStarMoms@athletesinaction.org)
 
 ---
