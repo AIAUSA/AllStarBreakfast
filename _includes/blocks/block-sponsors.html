@@ -40,20 +40,20 @@
 					{% endfor %}
 				</div>
 				{% endif %}
-				{% assign ntsponsors = site.sponsors | where: "type", "Mom Partner Sponsor" | sort: "date" | reverse %}
-				{% if ntsponsors.size > 0 %}
-				<h4>Partner Sponsor</h4>
-				<div class="sponsors">
-					{% for s in ntsponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
-					{% endfor %}
-				</div>
-				{% endif %}
 				{% assign csponsors = site.sponsors | where: "type", "Mom Sponsor" | sort: "date" | reverse %}
 				{% if csponsors.size > 0 %}
 				<h4>Sponsors</h4>
 				<div class="sponsors">
 					{% for s in csponsors %}
+					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					{% endfor %}
+				</div>
+				{% endif %}
+				{% assign ntsponsors = site.sponsors | where: "type", "Mom Partner Sponsor" | sort: "date" | reverse %}
+				{% if ntsponsors.size > 0 %}
+				<h4>Partner Sponsor</h4>
+				<div class="sponsors">
+					{% for s in ntsponsors %}
 					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
 					{% endfor %}
 				</div>
