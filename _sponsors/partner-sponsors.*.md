@@ -1,5 +1,5 @@
 ---
-title: Northwestern Moms Partner Sponsor
+title: 'Moms Partner Sponsor - Northwestern '
 link: ''
 type: Sponsor
 logo: "/uploads/Horizontal, Shrunken.jpg"
