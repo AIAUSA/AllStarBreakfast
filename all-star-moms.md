@@ -51,10 +51,6 @@ page_sections:
   photo_size: 2
 - template: sponsors
   block: sponsors
-  type: home
-  title: Presented By
-- template: sponsors
-  block: sponsors
   title: 2020 All Star Mom's Title Sponsor
   type: ''
 - template: centered-text

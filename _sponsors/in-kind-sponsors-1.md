@@ -1,7 +1,7 @@
 ---
 title: Moms In-Kind Sponsor - Amazing Cosmetics
 link: https://www.amazingcosmetics.com/
-type: ''
+type: 'In-kind Sponsor'
 logo: "/uploads/AMAZING COSMETICS-GREY-LOGO.png"
 
 ---

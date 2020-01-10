@@ -14,7 +14,9 @@ fields:
     source:
       type: simple
     options:
-    - Sponsor
+    - Breakfast Title Sponsor
+    - Breakfast Presenting Sponsor
+    - Breakfast Sponsor
     - Mom Presenting Sponsor
     - Mom Partner Sponsor
     - Mom Sponsor
