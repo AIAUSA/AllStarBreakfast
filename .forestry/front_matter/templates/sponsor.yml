@@ -25,5 +25,6 @@ fields:
   label: Logo
 pages:
 - _sponsors/Chicago Crypto logo.*.md
+- _sponsors/partner-sponsors.*.md
 - _sponsors/presenting-sponsor.*.md
 - _sponsors/sponsored-by.*.md
