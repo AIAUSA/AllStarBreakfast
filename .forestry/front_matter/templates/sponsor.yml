@@ -14,11 +14,11 @@ fields:
     source:
       type: simple
     options:
-    - Title Sponsor
-    - Breakfast Title Sponsor
-    - Mom Title Sponsor
     - Sponsor
-    - In-kind Sponsors
+    - Mom Presenting Sponsor
+    - Mom Partner Sponsor
+    - Mom Sponsor
+    - In-kind Sponsor 
   label: Type
 - type: file
   name: logo
