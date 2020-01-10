@@ -1,8 +1,7 @@
 ---
 title: 'In-Kind Sponsors:'
-link: https://www.amazingcosmetics.com/
+link: http://www.distinctivelyme.org/
 type: In-kind Sponsors
-logo: "/uploads/AMAZING COSMETICS-GREY-LOGO.png"
-published: false
+logo: "/uploads/DM Logo_preview.jpeg"
 
 ---
