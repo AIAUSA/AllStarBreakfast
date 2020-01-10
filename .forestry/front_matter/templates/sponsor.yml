@@ -24,4 +24,5 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/presenting-sponsor.*.md
 - _sponsors/sponsored-by.*.md
