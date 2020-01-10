@@ -1,8 +1,7 @@
 ---
 title: 'In-Kind Sponsors:'
-link: http://www.distinctivelyme.org/
+link: 'https://statementees.org/ '
 type: In-kind Sponsors
-logo: "/uploads/DM Logo_preview.jpeg"
-published: false
+logo: "/uploads/StatemenTees LOGO (1).jpeg"
 
 ---
