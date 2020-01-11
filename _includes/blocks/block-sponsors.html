@@ -8,7 +8,7 @@
 				<h4>Title Sponsor:</h4>
 				<div class="sponsors">
 					{% for s in psponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -17,7 +17,7 @@
 				<h4>Sponsored By:</h4>
 				<div class="sponsors">
 					{% for s in psponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -26,7 +26,7 @@
 				<h4>Sponsors:</h4>
 				<div class="sponsors">
 					{% for s in psponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"<a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -36,7 +36,7 @@
 				<h4>{{site.data.event.year}} All Star Moms Presenting Sponsor</h4>
 				<div class="sponsors">
 					{% for s in ntsponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -45,7 +45,7 @@
 				<h4>Sponsors</h4>
 				<div class="sponsors">
 					{% for s in csponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -54,7 +54,7 @@
 				<h4>Partner Sponsor</h4>
 				<div class="sponsors">
 					{% for s in ntsponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
@@ -63,7 +63,7 @@
 				<h4>In-Kind Sponsors</h4>
 				<div class="sponsors">
 					{% for s in isponsors %}
-					<div class="sponsor big"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></div>
+					<div class="sponsor big"><a href="{{s.link}}"><img src="{{site.baseurl}}{{ s.logo }}" alt=""></a></div>
 					{% endfor %}
 				</div>
 				{% endif %}
