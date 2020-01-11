@@ -41,6 +41,5 @@ page_sections:
     to live a life of character, leadership, and faith. Jones reflected such peace
     and stability, that his teammate, Charles Barkley, said, “If everyone in the world
     was like Bobby Jones, the world wouldn’t have any problems.”</p>"
-published: false
 
 ---
