@@ -24,3 +24,5 @@ fields:
     options:
     - Jerry
     - Bobby
+pages:
+- _inductees/paul-westphal.md
