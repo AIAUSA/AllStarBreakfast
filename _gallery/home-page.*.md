@@ -3,6 +3,7 @@ title: Home Page
 date: '2018-11-06T02:04:10.000+00:00'
 year: "2018"
 images:
+- "/uploads/Allan and Kim.JPG"
 - "/uploads/JC Dick Paulete.jpg"
 - "/uploads/WLOM 2018 Kim Intros Mike Warren 3.jpeg"
 - "/uploads/RED (76).jpeg"
