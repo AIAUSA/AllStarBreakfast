@@ -30,7 +30,7 @@ page_sections:
     credentials: 4-time NBA Executive of the Year
   - template: speaker
     name: Bobby Jones
-    credentials: 5 x NBA All Star 10 X All-Defensive Team
+    credentials: 5 x NBA All Star 10 X All-Defensive Basketball Hall of Fame
     title: 1972 UNC Final Four – US Olympic Team, NBA Title 1983 Philadelphia 76ers
     image: "/uploads/bobby.jpg"
 - template: speakers
