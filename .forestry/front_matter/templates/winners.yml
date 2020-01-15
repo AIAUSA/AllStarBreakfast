@@ -8,3 +8,16 @@ fields:
   name: block
   hidden: true
   default: winners
+- type: text
+  label: Title
+  name: title
+- type: select
+  name: type
+  label: Award Display
+  default: Jerry
+  config:
+    source:
+      type: custom
+    options:
+    - Jerry
+    - Bobby

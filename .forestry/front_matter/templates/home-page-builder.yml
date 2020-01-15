@@ -25,6 +25,7 @@ fields:
   - about
   - gallery
   - speakers
+  - winners
   label: Page Sections
   name: page_sections
 pages:

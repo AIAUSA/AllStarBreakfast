@@ -1,13 +1,17 @@
 <div class="container">
-    <h3>Past Bart Starr Award Winners</h3>
+    <h5>{{section.title}}</h5>
     <br />
     <br />
-    {% assign sorted = site.inductees | sort: 'date' | reverse %}
+    {% if section.type == 'Jerry' %}
+    {% assign sorted = site.inductees | where: "type", "Jerry" | sort: 'year' | reverse %}
+    {% else %}
+    {% assign sorted = site.inductees | where: "type", "Bobby" | sort: 'year' | reverse %}
+    {% endif %}
     {% for post in sorted  %}
     <div class="col-sm-3">
         <div class="speaker" style="height: 100px;">
             <!--<div class="photo-wrapper rounded"><img src="{{site.baseurl}}/{{post.feature_image}}" alt="{{post.title}}" class="img-responsive"></div>-->
-            <h3 class="name"><a class="team-title" style="text-decoration: underline; width: 100%" href="{{ site.baseurl }}{{ post.url | replace: '.html', '' }}">{{post.title}}</a></h3>
+            <h5 class="name"><a class="team-title" style="text-decoration: underline; width: 100%" href="#">{{post.title}}</a></h3>
             <p class="text-alt"><small>{{ post.year }}</small></p>
         </div>
     </div>
