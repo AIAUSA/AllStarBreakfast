@@ -23,10 +23,6 @@ page_sections:
     men in the game of basketball, worldwide. He has always spoken on the value of
     integrity, respecting others, and doing things the right way. Every aspect of
     his life exemplifies character, leadership and faith.</p>"
-- template: winners
-  block: winners
-  type: Jerry
-  title: Past Jerry Colangelo Award Winners
 - template: text-w-right-image
   block: text-with-right-image
   image: "/uploads/bobby.jpg"
@@ -47,6 +43,11 @@ page_sections:
     was like Bobby Jones, the world wouldn’t have any problems.”</p>"
 - template: winners
   block: winners
+  type: Jerry
+  title: Past Jerry Colangelo Award Winners
+- template: winners
+  block: winners
   type: Bobby
   title: Past Bobby Jones Award Winners
+
 ---
