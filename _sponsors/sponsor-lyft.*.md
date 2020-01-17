@@ -1,8 +1,7 @@
 ---
 title: Sponsor - Lyft
-link: ''
+link: https://www.lyft.com/
 type: Breakfast Sponsor
 logo: "/uploads/lyft logo[2].jpg"
-published: false
 
 ---
